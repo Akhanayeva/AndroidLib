@@ -12,6 +12,8 @@ A lightweight, plug-and-play Android chat library built with **Kotlin** and **We
 
 ---
 
+Library url:
+https://github.com/Akhanayeva/chatlibrary/packages/2472313
 
 ## 🚀 Quick Start
 
@@ -33,5 +35,13 @@ dependencyResolutionManagement {
         }
     }
 }
+
+
+
+
+https://github.com/user-attachments/assets/ff6878ac-17c6-4e32-9ebd-d18ff51c6276
+
+
+
 
 
